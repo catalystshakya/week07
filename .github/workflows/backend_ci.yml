@@ -145,4 +145,4 @@ jobs:
       run: az logout
       if: always()
 
-      # Triggering CI run for task 7.1P.
+      # Triggering CI run for task 7.1P!.
